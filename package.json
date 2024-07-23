@@ -1,0 +1,27 @@
+{
+  "name": "js211_api_checkpoint",
+  "version": "1.0.0",
+  "description": "Checkpoint for JS211",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adao74/JS211_API_checkpoint.git"
+  },
+  "keywords": [
+    "checkpoint",
+    "api",
+    "authentication"
+  ],
+  "author": "Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adao74/JS211_API_checkpoint/issues"
+  },
+  "homepage": "https://github.com/adao74/JS211_API_checkpoint#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
